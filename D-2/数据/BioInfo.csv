@@ -1,0 +1,17 @@
+ISW Version,1.1.0.952
+Machine ID,NB501132
+Sequence Type,Customize
+Recipe Version, V1.0.1.028
+Sequence Date,2019-9-24
+Sequence Time,12:16:49
+Reagent ID,A0007
+Flowcell Pos,A
+DNB ID,lane-7
+Barcode Type,1~128
+Barcode File,barcode.csv
+Read1 Cycles,100
+Read2 Cycles,100
+Barcode,10
+Dual Barcode,
+Read1 Dark Cycles,2
+Read2 Dark Cycles,2
